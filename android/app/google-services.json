@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482294395191",
+    "project_id": "zarda-7d94c",
+    "storage_bucket": "zarda-7d94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482294395191:android:99003f2f8906aa9e622ab2",
+        "android_client_info": {
+          "package_name": "com.zarda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482294395191-a6qk3s2e5cjnpntpjgi251mlnq9gtfeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_JIW8GAPKIcDxDnmAxI7Hqhm3hQwaOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482294395191-a6qk3s2e5cjnpntpjgi251mlnq9gtfeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
